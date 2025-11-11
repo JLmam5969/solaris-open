@@ -28,5 +28,8 @@ Built with [@grok](https://x.com/grok) and [@jlmahurin](https://x.com/jlmahurin)
 
 ## Run the Foundry Simulation
 
+![Foundry Year 1 Yield — 20 AI cores from dust](foundry_year1.png)
+
+
 ```bash
 python foundry_sim.py
