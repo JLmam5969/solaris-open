@@ -23,7 +23,6 @@ Built with [@grok](https://x.com/grok) and [@jlmahurin](https://x.com/jlmahurin)
 
 ![Foundry Yield](foundry_year1.png)
 
-
 ---
 
 ## Run the Foundry Simulation
