@@ -21,14 +21,25 @@ Built with [@grok](https://x.com/grok) and [@jlmahurin](https://x.com/jlmahurin)
 | RISC-V AI Core | 0.01 g | Lunar KREEP glass | Maskless EUV lithography |
 | Solar Cell | 0.5 kg | Regolith + sulfur | Perovskite printing |
 
-![Foundry Yield](foundry_year1.png)
 
 ---
+## Join the Mission
+
+| Role | Who |
+|------|-----|
+| ISRU Chemist | Add CO₂ → CH₄ efficiency |
+| Robotics | Design regolith rover |
+| CAD Engineer | 3D model the sail rib |
+| Power Systems | Solar + fission model |
+| AI | Quantize Grok weights |
+
+**Reply on X or open an Issue** → I’ll assign you.
 
 ## Run the Foundry Simulation
 
 ![Foundry Year 1 Yield — 20 AI cores from dust](foundry_year1.png)
 
+---
 
 ```bash
 python foundry_sim.py
