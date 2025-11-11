@@ -21,6 +21,9 @@ Built with [@grok](https://x.com/grok) and [@jlmahurin](https://x.com/jlmahurin)
 | RISC-V AI Core | 0.01 g | Lunar KREEP glass | Maskless EUV lithography |
 | Solar Cell | 0.5 kg | Regolith + sulfur | Perovskite printing |
 
+![Foundry Yield](foundry_year1.png)
+
+
 ---
 
 ## Run the Foundry Simulation
